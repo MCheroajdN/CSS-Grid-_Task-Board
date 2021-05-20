@@ -1,6 +1,6 @@
 PupSpa Project
 ## Introduction
- A Codecademy requirement to create a board of to-do items organized into columns.
+ A Codecademy requirement to use CSS Grid to create a board of to-do items organized into columns while using nested grid containers to add multiple grids on the same page and advanced CSS Grid properties.
 
 ## REQUIREMENT
  To add the grid property declarations to the provided HTML and CSS rules.
